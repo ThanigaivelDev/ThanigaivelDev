@@ -21,6 +21,8 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/thanigaivelvaithiyanathan?theme=dark&font=Marcellus&ext=contest)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThanigaivelDev&bg_color=363033&color=f5f6fa&line=2bf34c&point=f5f6fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!---
 ThanigaivelDev/ThanigaivelDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
